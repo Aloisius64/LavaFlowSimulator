@@ -4,7 +4,6 @@ This README would normally document whatever steps are necessary to get your app
 
 ### What is this repository for? ###
 
-* Quick summary
-A viewer of lava flows in C++ and OpenGL.
+* A viewer of lava flows in C++ and OpenGL.
 
 * Version 1.0
