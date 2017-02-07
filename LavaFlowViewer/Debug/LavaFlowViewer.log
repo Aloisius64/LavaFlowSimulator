@@ -1,0 +1,5 @@
+﻿  Main.cpp
+d:\projects - visual studio\lavaflowviewer\lavaflowviewer\main.cpp(35): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+d:\projects - visual studio\lavaflowviewer\lavaflowviewer\main.cpp(37): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  LavaFlowViewer.vcxproj -> D:\Projects - Visual Studio\LavaFlowViewer\Debug\LavaFlowViewer.exe
+  LavaFlowViewer.vcxproj -> D:\Projects - Visual Studio\LavaFlowViewer\Debug\LavaFlowViewer.pdb (Partial PDB)
